@@ -1,0 +1,13 @@
+INDEX VERSION 1.126+C:\Documents and Settings\rlruser\My Documents\GitHub\Alarm-Clock-project\workspace\.metadata\.plugins\org.eclipse.jdt.core
+1870773921.index
+4013937143.index
+1569716809.index
+1086952611.index
+955908192.index
+2249959016.index
+3871986173.index
+1182328344.index
+3025911338.index
+3433044562.index
+2818245175.index
+2545330246.index

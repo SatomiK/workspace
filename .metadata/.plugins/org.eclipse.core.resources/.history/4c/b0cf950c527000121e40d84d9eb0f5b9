@@ -1,0 +1,9 @@
+package jp.ac.utsunomiyau.android.alarm_main;
+
+import android.app.Activity;
+import android.app.Service;
+
+public class SoundService extends Service {
+	
+
+}

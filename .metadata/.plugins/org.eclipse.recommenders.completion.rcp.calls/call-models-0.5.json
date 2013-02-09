@@ -1,0 +1,52 @@
+{
+  "C:\\ss2012\\sdk\\platforms\\android-15\\android.jar": {
+    "location": "C:\\ss2012\\sdk\\platforms\\android-15\\android.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\ss2012\\sdk\\platforms\\android-15\\android.jar\u0027. Neither fingerprint \u002792822ec981a4d0a7f002c792e7b3b60f9a1f26fa\u0027 nor symbolic name \u0027android\u0027 are known."
+  },
+  "C:\\ss2012\\workspace\\Hello World\\gen": {
+    "location": "C:\\ss2012\\workspace\\Hello World\\gen",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\ss2012\\workspace\\Hello World\\gen\u0027. Skipped."
+  },
+  "C:\\Documents and Settings\\rlruser\\My Documents\\GitHub\\Alarm-Clock-project\\workspace\\Alarm main\\gen": {
+    "location": "C:\\Documents and Settings\\rlruser\\My Documents\\GitHub\\Alarm-Clock-project\\workspace\\Alarm main\\gen",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Documents and Settings\\rlruser\\My Documents\\GitHub\\Alarm-Clock-project\\workspace\\Alarm main\\gen\u0027. Skipped."
+  },
+  "C:\\Documents and Settings\\rlruser\\My Documents\\GitHub\\Alarm-Clock-project\\workspace\\Alarm Clock\\gen": {
+    "location": "C:\\Documents and Settings\\rlruser\\My Documents\\GitHub\\Alarm-Clock-project\\workspace\\Alarm Clock\\gen",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Documents and Settings\\rlruser\\My Documents\\GitHub\\Alarm-Clock-project\\workspace\\Alarm Clock\\gen\u0027. Skipped."
+  },
+  "C:\\Documents and Settings\\rlruser\\My Documents\\GitHub\\Alarm-Clock-project\\workspace\\Alarm main\\src": {
+    "location": "C:\\Documents and Settings\\rlruser\\My Documents\\GitHub\\Alarm-Clock-project\\workspace\\Alarm main\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Documents and Settings\\rlruser\\My Documents\\GitHub\\Alarm-Clock-project\\workspace\\Alarm main\\src\u0027. Skipped."
+  },
+  "C:\\Documents and Settings\\rlruser\\My Documents\\GitHub\\Alarm-Clock-project\\workspace\\TimeSetup\\src": {
+    "location": "C:\\Documents and Settings\\rlruser\\My Documents\\GitHub\\Alarm-Clock-project\\workspace\\TimeSetup\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Documents and Settings\\rlruser\\My Documents\\GitHub\\Alarm-Clock-project\\workspace\\TimeSetup\\src\u0027. Skipped."
+  },
+  "C:\\Documents and Settings\\rlruser\\My Documents\\GitHub\\Alarm-Clock-project\\workspace\\TimeSetup\\gen": {
+    "location": "C:\\Documents and Settings\\rlruser\\My Documents\\GitHub\\Alarm-Clock-project\\workspace\\TimeSetup\\gen",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Documents and Settings\\rlruser\\My Documents\\GitHub\\Alarm-Clock-project\\workspace\\TimeSetup\\gen\u0027. Skipped."
+  },
+  "C:\\Documents and Settings\\rlruser\\My Documents\\GitHub\\Alarm-Clock-project\\workspace\\SoundSetup\\gen": {
+    "location": "C:\\Documents and Settings\\rlruser\\My Documents\\GitHub\\Alarm-Clock-project\\workspace\\SoundSetup\\gen",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Documents and Settings\\rlruser\\My Documents\\GitHub\\Alarm-Clock-project\\workspace\\SoundSetup\\gen\u0027. Skipped."
+  },
+  "C:\\Documents and Settings\\rlruser\\My Documents\\GitHub\\Alarm-Clock-project\\workspace\\SoundSetup\\src": {
+    "location": "C:\\Documents and Settings\\rlruser\\My Documents\\GitHub\\Alarm-Clock-project\\workspace\\SoundSetup\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Documents and Settings\\rlruser\\My Documents\\GitHub\\Alarm-Clock-project\\workspace\\SoundSetup\\src\u0027. Skipped."
+  },
+  "C:\\Documents and Settings\\rlruser\\My Documents\\GitHub\\Alarm-Clock-project\\workspace\\AlarmTest\\gen": {
+    "location": "C:\\Documents and Settings\\rlruser\\My Documents\\GitHub\\Alarm-Clock-project\\workspace\\AlarmTest\\gen",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Documents and Settings\\rlruser\\My Documents\\GitHub\\Alarm-Clock-project\\workspace\\AlarmTest\\gen\u0027. Skipped."
+  }
+}

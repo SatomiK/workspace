@@ -1,0 +1,21 @@
+package jp.ac.utsunomiyau.android.clock_main;
+
+import android.content.BroadcastReceiver;
+import android.content.Context;
+import android.content.Intent;
+import android.media.MediaPlayer;
+import android.util.Log;
+
+public class AlarmReceiver extends BroadcastReceiver {
+	MediaPlayer mp;
+	@Override
+	public void onReceive(Context context, Intent intent) {
+		Log.d("alarm_main", "ReceivedActivity‚ªŒÄ‚Ño‚³‚ê‚Ü‚µ‚½");
+		mp = MediaPlayer.create(context, R.raw.sample2);
+		mp.start();
+		Intent varIntent = new Intent (context, SoundSetup.class);
+		 context.startActivity(varIntent);
+	}
+}
+
+

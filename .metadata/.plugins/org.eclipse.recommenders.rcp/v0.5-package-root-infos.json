@@ -1,0 +1,353 @@
+[
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "889dc94fb18c901982d1a1dc21be068878df76a4",
+    "jarFileModificationDate": "2010-09-15T01:25:33+09:00",
+    "location": "C:\\Program Files\\Java\\jre6\\lib\\ext\\sunpkcs11.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "909b06f2aa49cc1cc6d407184ea8b2ed155c8be2",
+    "jarFileModificationDate": "2010-09-15T02:02:55+09:00",
+    "location": "C:\\Program Files\\Java\\jre6\\lib\\resources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e8a804e927f4f5facbb5c0c8f8ed177d27d6ff5b",
+    "jarFileModificationDate": "2010-09-15T04:42:11+09:00",
+    "location": "C:\\Program Files\\Java\\jre6\\lib\\rt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "612846c9857077a039b533718f72db3bc041d389",
+    "jarFileModificationDate": "2012-11-15T15:43:50.441+09:00",
+    "location": "C:\\Documents and Settings\\rlruser\\My Documents\\GitHub\\Alarm-Clock-project\\workspace\\SoundSetup\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "612846c9857077a039b533718f72db3bc041d389",
+    "jarFileModificationDate": "2012-11-01T17:11:04.438+09:00",
+    "location": "C:\\Documents and Settings\\rlruser\\My Documents\\GitHub\\Alarm-Clock-project\\workspace\\clock-main\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "612846c9857077a039b533718f72db3bc041d389",
+    "jarFileModificationDate": "2012-10-18T15:58:31.562+09:00",
+    "location": "C:\\Documents and Settings\\rlruser\\My Documents\\GitHub\\Alarm-Clock-project\\workspace\\Hello World\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a75981169fd8ac41cf95cb45b2f2cc633c6d4150",
+    "jarFileModificationDate": "2010-09-15T04:43:14+09:00",
+    "location": "C:\\Program Files\\Java\\jre6\\lib\\charsets.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "612846c9857077a039b533718f72db3bc041d389",
+    "jarFileModificationDate": "2013-01-07T12:24:36+09:00",
+    "location": "C:\\ss2012\\SS2012FPGAtest\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "612846c9857077a039b533718f72db3bc041d389",
+    "jarFileModificationDate": "2013-02-06T17:44:11.468+09:00",
+    "location": "C:\\Documents and Settings\\rlruser\\My Documents\\GitHub\\Alarm-Clock-project\\workspace\\Received_Activity\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f435da1108ac4291f7689fb9f31e854b09889c30",
+    "jarFileModificationDate": "2010-09-15T04:43:22+09:00",
+    "location": "C:\\Program Files\\Java\\jre6\\lib\\ext\\localedata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "612846c9857077a039b533718f72db3bc041d389",
+    "jarFileModificationDate": "2012-11-15T15:14:15.284+09:00",
+    "location": "C:\\Documents and Settings\\rlruser\\My Documents\\GitHub\\Alarm-Clock-project\\workspace\\Alarm main\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "612846c9857077a039b533718f72db3bc041d389",
+    "jarFileModificationDate": "2012-11-15T15:28:22.456+09:00",
+    "location": "C:\\Documents and Settings\\rlruser\\My Documents\\GitHub\\Alarm-Clock-project\\workspace\\Repeat-Setup\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "612846c9857077a039b533718f72db3bc041d389",
+    "jarFileModificationDate": "2013-02-06T17:45:43.875+09:00",
+    "location": "C:\\Documents and Settings\\rlruser\\My Documents\\GitHub\\Alarm-Clock-project\\workspace\\Received__Activity\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "612846c9857077a039b533718f72db3bc041d389",
+    "jarFileModificationDate": "2012-11-15T14:56:48.128+09:00",
+    "location": "C:\\Documents and Settings\\rlruser\\My Documents\\GitHub\\Alarm-Clock-project\\workspace\\Alarm Clock\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "annotations",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f68f82be8f2051d277ee74fb859d63de8e33053c",
+    "jarFileModificationDate": "2012-08-09T05:10:40+09:00",
+    "location": "C:\\ss2012\\sdk\\tools\\support\\annotations.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "98b52a994c49cc96b2c5f84d943aaa5a213f2fa3",
+    "jarFileModificationDate": "2010-09-15T04:42:14+09:00",
+    "location": "C:\\Program Files\\Java\\jre6\\lib\\jsse.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2357317d1e1f14937b3bda942c58791ee1dba581",
+    "jarFileModificationDate": "2009-04-22T16:30:50.359+09:00",
+    "location": "C:\\Program Files\\Java\\jre6\\lib\\ext\\sunjce_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "612846c9857077a039b533718f72db3bc041d389",
+    "jarFileModificationDate": "2013-01-10T15:11:52.275+09:00",
+    "location": "C:\\Documents and Settings\\rlruser\\My Documents\\GitHub\\Alarm-Clock-project\\workspace\\Alarm Test\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0291c376892d71518905b96b156834389a0da26c",
+    "jarFileModificationDate": "2009-04-22T16:30:50.375+09:00",
+    "location": "C:\\Program Files\\Java\\jre6\\lib\\jce.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "612846c9857077a039b533718f72db3bc041d389",
+    "jarFileModificationDate": "2012-12-19T15:15:30.047+09:00",
+    "location": "C:\\Documents and Settings\\rlruser\\My Documents\\GitHub\\Alarm-Clock-project\\workspace\\VolumeSetup\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "612846c9857077a039b533718f72db3bc041d389",
+    "jarFileModificationDate": "2013-01-24T15:50:50.234+09:00",
+    "location": "C:\\Documents and Settings\\rlruser\\My Documents\\GitHub\\Alarm-Clock-project\\workspace\\Music_main\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "612846c9857077a039b533718f72db3bc041d389",
+    "jarFileModificationDate": "2013-01-17T15:20:18.196+09:00",
+    "location": "C:\\Documents and Settings\\rlruser\\My Documents\\GitHub\\Alarm-Clock-project\\workspace\\AlarmTest\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bb50395b311345347c277ee2742019d5437bd956",
+    "jarFileModificationDate": "2010-09-15T01:35:45+09:00",
+    "location": "C:\\Program Files\\Java\\jre6\\lib\\ext\\dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "612846c9857077a039b533718f72db3bc041d389",
+    "jarFileModificationDate": "2012-11-15T15:40:22.237+09:00",
+    "location": "C:\\Documents and Settings\\rlruser\\My Documents\\GitHub\\Alarm-Clock-project\\workspace\\TimeSetup\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "92822ec981a4d0a7f002c792e7b3b60f9a1f26fa",
+    "jarFileModificationDate": "2012-10-18T15:32:35.093+09:00",
+    "location": "C:\\ss2012\\sdk\\platforms\\android-15\\android.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "612846c9857077a039b533718f72db3bc041d389",
+    "jarFileModificationDate": "2012-11-15T15:47:58.800+09:00",
+    "location": "C:\\Documents and Settings\\rlruser\\My Documents\\GitHub\\Alarm-Clock-project\\workspace\\RumblingSetup\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0d7f82aa93055fe62484c1287c1e4dbaea85f4e6",
+    "jarFileModificationDate": "2010-09-15T01:26:01+09:00",
+    "location": "C:\\Program Files\\Java\\jre6\\lib\\ext\\sunmscapi.jar",
+    "javaRuntime": true
+  }
+]

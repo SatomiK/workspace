@@ -1,0 +1,5 @@
+package jp.ac.utsunomiyau.android.alarm_main;
+
+public class SoundService {
+
+}

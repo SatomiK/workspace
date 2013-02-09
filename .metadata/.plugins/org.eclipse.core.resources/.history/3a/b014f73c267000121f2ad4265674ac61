@@ -1,0 +1,160 @@
+package jp.ac.utsunomiyau.android.alarm.test;
+
+import android.app.Activity;
+
+import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
+//▼　追加　=========================== ▼
+import java.util.Calendar;
+import android.widget.TimePicker;
+import android.app.PendingIntent;
+import android.app.AlarmManager;  
+import android.content.Context;
+import android.content.Intent;
+import android.util.Log;
+//▲　追加　=========================== ▲
+
+public class AlarmTest extends Activity {
+    //▼　追加　=========================== ▼
+    // アラームマネージャ
+    private AlarmManager alarmManager;
+    
+    // 時間設定
+    private Calendar calendar_alarm;
+    
+    // 時刻設定クラス
+    private TimePicker timePicker;
+    //▲　追加　=========================== ▲
+    
+    /** Called when the activity is first created. */
+    @Override
+    public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.alarm_test);
+
+        // ボタンの設定
+        final Button setButton = (Button)findViewById(R.id.button1);
+        final Button cancelButton = (Button)findViewById(R.id.button2);
+        
+        // 設定ボタンクリックイベント
+        setButton.setOnClickListener(new Button.OnClickListener() {
+            public void onClick(View v) {
+                setButton.setEnabled(false);
+                cancelButton.setEnabled(true);
+                //▼　追加　=========================== ▼
+                // アラート設定
+                startAlarm();
+                //▲　追加　=========================== ▲
+            }
+        });
+        
+        // キャンセルボタンクリックイベント
+        cancelButton.setOnClickListener(new Button.OnClickListener() {
+                public void onClick(View v) {
+                setButton.setEnabled(false);
+                cancelButton.setEnabled(true);
+                //▼　追加　=========================== ▼
+                // アラート解除
+                stopAlarm();
+                //▲　追加　=========================== ▲
+            }
+        });
+    }
+    
+    //▼　追加　=========================== ▼
+    // アラームの設定
+    public void startAlarm() {
+        Log.d("Test_alarmActivity", "startAlarm()");
+        
+        alarmManager = (AlarmManager)getSystemService(Context.ALARM_SERVICE);
+        
+        // 時間を設定
+        calendar_alarm = Calendar.getInstance();
+        
+        // 現在日付の設定
+        calendar_alarm.setTimeInMillis(System.currentTimeMillis());
+        
+        // 設定した時刻を取得
+        timePicker = (TimePicker)findViewById(R.id.timePicker1);
+        calendar_alarm.set(Calendar.HOUR_OF_DAY, timePicker.getCurrentHour());
+        calendar_alarm.set(Calendar.MINUTE, timePicker.getCurrentMinute());
+        calendar_alarm.set(Calendar.SECOND, 0);
+        calendar_alarm.set(Calendar.MILLISECOND, 0);
+
+        // アラームマネージャの設定
+        alarmManager.set(AlarmManager.RTC_WAKEUP,
+                         calendar_alarm.getTimeInMillis(),
+                         getPendingIntent());
+    }
+    
+    // アラームの解除
+    public void stopAlarm() {
+        Log.d("Test_alarmActivity", "stopAlarm()");
+        
+        // アラームマネージャの解除
+        alarmManager.cancel(getPendingIntent());
+    }
+    
+    // インテントの作成
+    private PendingIntent getPendingIntent() {
+        
+        // サービスの設定
+        Intent intent = 
+                new Intent(getApplicationContext(), AlarmTest.class);
+        PendingIntent pendingIntent = 
+                PendingIntent.getActivity(this, 0, intent, 0);
+        return pendingIntent;
+    }
+    
+    //▲　追加　=========================== ▲
+}
+
+
+/*
+import java.io.IOException;
+import android.media.AudioManager;
+import android.media.MediaPlayer;
+import android.os.Bundle;
+import android.app.Activity;
+import android.content.Context;
+import android.view.Menu;
+import android.view.MotionEvent;
+import android.util.Log;
+import android.view.View;
+import android.widget.Button;
+import android.view.View.OnClickListener;
+
+public class SoundSetup extends Activity {
+	MediaPlayer mp = null;
+	Button play_button;
+
+	@Override
+	public void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.sound_setup);
+
+		mp = MediaPlayer.create(this, R.raw.sample);
+		play_button = (Button) findViewById(R.id.button1);
+		play_button.setOnClickListener((OnClickListener) this);
+	}
+
+	public void onClick(View v) {
+		if (mp.isPlaying()) {
+			// 再生中
+			play_button.setText("Music Start");
+			mp.stop();
+			try {
+				mp.prepare();
+			} catch (IllegalStateException e) {
+				e.printStackTrace();
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+		} else {
+			// 停止中
+			play_button.setText("Music Stop");
+			mp.start();
+		}
+	}
+}*/
